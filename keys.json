@@ -3,6 +3,21 @@
     {
       "key": "RIZZXITERS-ABCDE",
       "status": "active",
+      "expires": "2026-10-10"
+    },
+    {
+      "key": "RIZZXITERS-FGHIJ",
+      "status": "active",
+      "expires": "2026-11-24"
+    },
+    {
+      "key": "RIZZXITERS-KLMNO",
+      "status": "active",
+      "expires": "2026-12-31"
+    },
+    {
+      "key": "RIZZXITERS-PQRST",
+      "status": "active",
       "expires": "never"
     }
   ]
