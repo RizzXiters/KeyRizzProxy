@@ -1,6 +1,11 @@
 {
   "licenses": [
     {
+      "key": "RIZZXITERS-RIZZADMIN",
+      "status": "active",
+      "expires": "never"
+    },
+    {
       "key": "RIZZXITERS-FREE",
       "status": "active",
       "expires": "never"
