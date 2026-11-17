@@ -1,6 +1,11 @@
 {
   "licenses": [
     {
+      "key": "RIZZXITERS-PROXY",
+      "status": "active",
+      "expires": "2026-11-17"
+    },
+    {
       "key": "RIZZXITERS-FREE",
       "status": "active",
       "expires": "2026-11-24"
