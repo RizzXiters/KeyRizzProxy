@@ -1,11 +1,6 @@
 {
   "licenses": [
     {
-      "key": "RIZZXITERS-ABCDE",
-      "status": "active",
-      "expires": "2026-10-10"
-    },
-    {
       "key": "RIZZXITERS-FGHIJ",
       "status": "active",
       "expires": "2026-11-24"
@@ -16,7 +11,7 @@
       "expires": "2026-12-31"
     },
     {
-      "key": "RIZZXITERS-PQRST",
+      "key": "RIZZXITERS-ABC01",
       "status": "active",
       "expires": "never"
     }
