@@ -4,21 +4,6 @@
       "key": "RIZZXITERS-FREE",
       "status": "active",
       "expires": "never"
-    },
-    {
-      "key": "RIZZXITERS-FGHIJ",
-      "status": "active",
-      "expires": "2026-11-24"
-    },
-    {
-      "key": "RIZZXITERS-KLMNO",
-      "status": "active",
-      "expires": "2026-12-31"
-    },
-    {
-      "key": "RIZZXITERS-ABC01",
-      "status": "active",
-      "expires": "never"
     }
   ]
 }
